@@ -1,1 +1,2 @@
 it my first file
+ it is about the git hub demo
